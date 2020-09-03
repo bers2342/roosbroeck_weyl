@@ -1,4 +1,4 @@
-# Numerical resolution of Van Roosbrock equation in a Weyl semimetal
+# Numerical resolution of Van Roosbrock equations in a Weyl semimetal
 
 ## Objective
 
